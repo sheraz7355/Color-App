@@ -11,10 +11,10 @@ A fundamental iOS application built using Swift and Storyboard. The app generate
 
 | Main Screen (Color List) | Detail Screen (Selected Color) |
 | :----------------------: | :----------------------------: |
-| ![Main color list screen](assets/Image2.png) | ![Detail color screen](assets/screenshot-detail.png) |
+| ![Main color list screen](assets/Image2.png) | ![Detail color screen](assets/image1.png) |
 
 **App Running in Simulator:**
-![Random Colors App running in an iPhone SE simulator](assets/screenshot-simulator.png)
+![Random Colors App running in an iPhone SE simulator](assets/image3.png)
 
 ---
 
