@@ -11,15 +11,12 @@ A fundamental iOS application built using Swift and Storyboard. The app generate
 
 <table>
   <tr>
-    <td><img src="assets/Image2.png" alt="Main color list screen" width="200"/></td>
-    <td><img src="assets/image1.png" alt="Detail color screen" width="200"/></td>
-    <td>   <img src="assets/image3.png" alt="Random Colors App running in an iPhone SE simulator" width="200"/></td>
+    <td><img src="assets/final.png" alt="Main color list screen" width="200"/></td>
+    <td>   <img src="assets/final1.png" alt="Random Colors App running in an iPhone SE simulator" width="200"/></td>
   </tr>
   <tr>
     <td align="center">Main Screen (Color List)</td>
-    <td align="center">Detail Screen (Select Color)</td>
      <td align="center">App running (Selected Color)</td>
-      
   </tr>
 </table>
 
